@@ -20,5 +20,3 @@ If not, there is an alternative. You can get a copy of the code (For Mac Users o
 3. Open a web server, then click on the "file" tab on the toolbar on top. This drops down a lot of options, click "Open file".
 4. Search through your files and find "jlschatterbox". Open the folder.
 5. This should've opened our project! Enjoy! :D
-
-Just for an example
