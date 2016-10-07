@@ -1,4 +1,4 @@
-# jlschatterbox
+# jlschatterox
 
 ***
 INTRO
@@ -27,8 +27,16 @@ If not, there is an alternative. You can get a copy of the code (For Mac Users o
 
 
 
+
 ***
 MOTIVATION
 ***
 
 We thought of doing this by thinking of problems people. We wanted to make a website and we decided to make a website that is for talking with other people so that people can communicate with each other. We interviewed our dads because they were experts at making websites.
+
+***
+LICENSE
+***
+
+We currently don't have a license. However, this project is partly sponsered by Jane Lathrop Stanford middle school. Feel free to copy this project for your own use. However, you may not copy this project for any commercial uses or to get profit from it. Please share the project with your friends and use it as you wish! :D
+>>>>>>> 3dac563861cb58ff96c97c715b3b548aee00d6ad
