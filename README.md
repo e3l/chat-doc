@@ -1,4 +1,4 @@
-# jlschatterbox
+# jlschatterox
 
 ***
 INTRO
@@ -26,3 +26,15 @@ WHAT JLSchatterbox does
 ***
 
 Jlschatter box is a website where you can chat with your friends. It has ID's, Accounts, Personal Chats, Codes, and chat for specific places, such as JLS. The accounts protect your identity and to make sure that no unwanted people can see what you tell you friends. The personal chats have a password that you custom make and tell your friends. The codes are for special things such as a JLS chat or a Connections 6th, 7th, or 8th chat.
+
+***
+MOTIVATION
+***
+
+We thought of doing this by thinking of problems people. We wanted to make a website and we decided to make a website that is for talking with other people so that people can communicate with each other. We interviewed our dads because they were experts at making websites.
+
+***
+LICENSE
+***
+
+We currently don't have a license. However, this project is partly sponsered by Jane Lathrop Stanford middle school. Feel free to copy this project for your own use. However, you may not copy this project for any commercial uses or to get profit from it. Please share the project with your friends and use it as you wish! :D
