@@ -20,3 +20,15 @@ If not, there is an alternative. You can get a copy of the code (For Mac Users o
 3. Open a web server, then click on the "file" tab on the toolbar on top. This drops down a lot of options, click "Open file".
 4. Search through your files and find "jlschatterbox". Open the folder.
 5. This should've opened our project! Enjoy! :D
+
+
+
+
+
+
+
+***
+MOTIVATION
+***
+
+We thought of doing this by thinking of problems people. We wanted to make a website and we decided to make a website that is for talking with other people so that people can communicate with each other. We interviewed our dads because they were experts at making websites.
