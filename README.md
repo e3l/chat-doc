@@ -20,3 +20,9 @@ If not, there is an alternative. You can get a copy of the code (For Mac Users o
 3. Open a web server, then click on the "file" tab on the toolbar on top. This drops down a lot of options, click "Open file".
 4. Search through your files and find "jlschatterbox". Open the folder.
 5. This should've opened our project! Enjoy! :D
+
+***
+WHAT JLSchatterbox does
+***
+
+Jlschatter box is a website where you can chat with your friends. It has ID's, Accounts, Personal Chats, Codes, and chat for specific places, such as JLS. The accounts protect your identity and to make sure that no unwanted people can see what you tell you friends. The personal chats have a password that you custom make and tell your friends. The codes are for special things such as a JLS chat or a Connections 6th, 7th, or 8th chat.
