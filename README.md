@@ -31,7 +31,7 @@ Jlschatter box is a website where you can chat with your friends. It has ID's, A
 MOTIVATION
 ***
 
-We thought of doing this by thinking of problems people. We wanted to make a website and we decided to make a website that is for talking with other people so that people can communicate with each other. We interviewed our dads because they were experts at making websites.
+We thought of doing this by thinking of problems people. We wanted to make a chatting website that didn't require making accounts and going through lots of annoying settup stuff in order to chat, only to find that your friend didn't have an account.
 
 ***
 LICENSE
