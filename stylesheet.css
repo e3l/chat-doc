@@ -25,7 +25,7 @@ html, body {
 }
 
 .chats {
-    background: green;
+    background: #efefef;
     height: 100%;
     width: 25%;
     font-family: sans-serif;
@@ -36,5 +36,24 @@ html, body {
     width: 75%;
     height: 100%;
     float: left;
-    background: yellow;
+    background: #c1c1c1;
+}
+
+.accountInfo {
+    background: #a9a9aa;
+    width: 13%;
+    height: 29%;
+    position: fixed;
+    z-index: 2;
+    top: 0em;
+    right: 0em;
+    text-align: center;
+}
+
+.accountPicture {
+    z-index: 999;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
