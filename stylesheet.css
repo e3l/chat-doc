@@ -105,13 +105,6 @@ html, body {
     font-size: 20px;
 }
 
-.thingsSaid {
-    height: 763px;
-    position: absolute;
-    top: 0;
-    width: 100%;
-}
-
 .chatWords {
     overflow: hidden;
     position: absolute;
@@ -133,13 +126,4 @@ html, body {
     position: relative;
     vertical-align: middle;
     line-height: 29px;
-}
-
-.text {
-    position: absolute;
-    bottom: 0px;
-    margin: 0;
-    width: 99.55%;
-    border: 1px solid black;
-    height: 15%;
 }
