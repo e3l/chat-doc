@@ -34,16 +34,36 @@
                 <div class = "currentChatName">
                     <p class = "currentChatNameText">This will be the name of the chat</p>
                 </div>
-                <div class = "chatWords">
-                    <img class = "chatWordsPicture" src = "http://dimg.voot.com/include/user-images/blank-user.jpg" />
-                    <p class = "chatWordsText">I tolja already da chats not working!</p>
+                
+                <div class = "thingsSaid">
+                    <div class = "chatWords">
+                        <img class = "chatWordsPicture" src = "http://dimg.voot.com/include/user-images/blank-user.jpg" />
+                        <p class = "chatWordsText">I tolja already da chats not working!</p>
+                    </div>
                 </div>
-            </div>
+                
+                <textarea class = "text" rows = "10"></textarea>
         </div>
         
         <div class = "accountInfo">
             <img class = "accountPicture" src = "http://dimg.voot.com/include/user-images/blank-user.jpg" />
             <p>You are not logged in... Probably because you can't XD</p>
         </div>
+        
+        <script type="text/javascript">
+            var index = false;
+            var text = "This text shifts to text box when clicked the button";
+
+            function DisplayText(){
+                    if(!index){
+                        document.getElementById("").value = text;
+                        document.getElementById("txt2").value = "";
+                    }else{
+                        document.getElementById("txt2").value = text;
+                        document.getElementById("txt1").value = "";
+                    }
+                index = index ? false : true;
+            }
+   </script>
     </body>
 </html>
