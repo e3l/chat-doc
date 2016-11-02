@@ -128,8 +128,6 @@ html, body {
     line-height: 29px;
 }
 
-
-
 .text {
     position: absolute;
     bottom: 0px;
@@ -139,12 +137,9 @@ html, body {
     height: 15%;
 }
 
-
-
 .thingsSaid {
     height: 763px;
     position: absolute;
     top: 0;
     width: 100%;
 }
-
