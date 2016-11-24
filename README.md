@@ -1,4 +1,4 @@
-# jlschatterbox
+# JLSChatterbox
 
 ***
 INTRO
